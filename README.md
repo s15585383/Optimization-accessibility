@@ -23,6 +23,7 @@ INDEX.HTML CHANGES AND UPDATES
     ![image](https://github.com/s15585383/Optimization-accessibility/assets/144190280/73261571-a3d5-42b3-9fbd-0f3018dd875a)
    - the elements on the rightmost side of the page for non-central information was grouped and turned in the aside part of the code
    - ![image](https://github.com/s15585383/Optimization-accessibility/assets/144190280/5dc404a4-02c1-4113-b9c3-97a1990b63e9)
+   - "Alt" added to each image for accessibility
 
 STYLE.CSS CHANGES AND UPDATES
 
