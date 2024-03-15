@@ -3,6 +3,10 @@ README
 INDEX.HTML CHANGES AND UPDATES
 
   -Optimized the Site Horiseon
+![image](https://github.com/s15585383/Optimization-accessibility/assets/144190280/f186a030-c613-436c-a212-9214823bfa0e)
+![image](https://github.com/s15585383/Optimization-accessibility/assets/144190280/f8acae40-c959-4dd3-b131-14b2b1f92456)
+Link to the deployed site:
+https://s15585383.github.io/Optimization-accessibility/
 
   -This document represents the changes and adaptations for the site for a more browser friendly development
   and accessible for people with disabilities
